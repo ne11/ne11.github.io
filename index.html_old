@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+		<title>- Jon Bundy -</title>
+		<link href="css/style.css" media="screen" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="css/960_12_col.css" />
+		<link rel="shortcut icon" href="j.ico" />
+	</head>
+
+	<body>
+		<div id="container" class="container_12">
+			<div id="header" class="clearfix">
+				<div class="grid_6 push_3">
+					<h1>Jon Bundy</h1>
+				</div>
+				<div class="clear"></div>
+				<div class="grid_6 push_3">
+					<h2> jon@jbundy.com</h2>
+				</div>
+			</div>
+		</div>			
+	</body>
+</html>
