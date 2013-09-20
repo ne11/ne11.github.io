@@ -6,7 +6,7 @@ h1 {
   font-size: 48px;
   text-align:center;
   margin-bottom:12px;
-  color:#321112;
+  color:#660000;
 }
 
 h2 {
@@ -14,15 +14,15 @@ h2 {
   text-align:center;
   margin-top:2px;
   margin-bottom:36px;
-  color:#321112;
+  color:#660000;
 }
 
 #header{
 
   margin: 20px 0px 0px 0px;
 	padding: 20px 0px;
-	border-top: 4px solid #321112;
-	border-bottom: 4px solid #321112;
+	border-top: 4px solid #660000;
+	border-bottom: 4px solid #660000;
 	background: #FFFFFF;
 }
 
@@ -30,20 +30,20 @@ h2 {
 
 	margin: 20px 0px 0px 0px;
 	padding: 20px 0px;
-	border-top: 4px solid #321112;
-	border-bottom: 4px solid #321112;
+	border-top: 4px solid #660000;
+	border-bottom: 4px solid #660000;
 	background: #FFFFFF;
 }
 
 label {
     display:block;
     margin-top:20px;
-	color:#321112;
+	color:#660000;
 	font-size: 26px;
 }
 
 a {
-	color:#2A270E;
+	color:#660000;
 	text-decoration: none;
 }
 
